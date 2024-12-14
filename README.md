@@ -1,0 +1,1 @@
+It's possible to use shuffle() in the hard mode version instead
